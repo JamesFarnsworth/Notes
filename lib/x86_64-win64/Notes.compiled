@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.6.2\bin\x86_64-win64\fpc.exe" Date="1125672322"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -vewnhi -FiF:\Programming\Pascal\Notes\lib\x86_64-win64 -FuF:\Programming\Pascal\Notes\ -FUF:\Programming\Pascal\Notes\lib\x86_64-win64\ -l Notes.lpr"/>
+</CONFIG>

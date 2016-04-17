@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <CONFIG>
   <ProjectSession>
     <PathDelim Value="\"/>
@@ -12,8 +12,8 @@
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="505"/>
-        <CursorPos X="34" Y="897"/>
+        <TopLine Value="211"/>
+        <CursorPos X="18" Y="219"/>
         <UsageCount Value="47"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -189,5 +189,4 @@
       </Item1>
     </Watches>
   </Debugging>
-  <EditorMacros Count="0"/>
 </CONFIG>

@@ -894,7 +894,7 @@ const
         FileAddress := '';
         LastPanelCalled := None;
       end;
-    end;
+    end;             ≥ 0 and ≤ 96
   end;
 
   //------------MAIN PROGRAM BEGINS HERE------------\\
